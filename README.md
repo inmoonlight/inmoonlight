@@ -28,9 +28,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:mjihyung@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finmoonlight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div>
-<!--[![Notion CV Badge](http://img.shields.io/badge/CV-333333?style=flat&logo=notion&link=https://www.notion.so/spacemoon/Jihyung-Moon-67667714adb44840a04b0110820a5c89)](https://www.notion.so/spacemoon/Jihyung-Moon-67667714adb44840a04b0110820a5c89)-->
-
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finmoonlight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
