@@ -1,9 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hello 안녕하세요
 
 
-### I'm Jihyung Moon, an NLP Research Engineer
-- doing research and developing products that have a great impact on human life ✨
-- working at [Upstage](https://www.upstage.ai/) and worked at NAVER, [Papago](https://papago.naver.com/)
+### I'm Jihyung Moon, CTO/Co-founder at [SoftlyAI](https://softly.ai/)
 
 #### ⚡ (Some) Interests
 - Project Managing, Problem Solving, Leadership, Communication
