@@ -2,10 +2,12 @@
 
 
 ### I'm Jihyung Moon, CTO/Co-founder at [SoftlyAI](https://softly.ai/)
+focusing on developing AI products that deliver business value as well as have a great impact on human life ✨
 
 #### ⚡ (Some) Interests
-- Project Managing, Problem Solving, Leadership, Communication
-- NLP Research, MLOps, Clean code
+- How to work collaboratively with AI research engineers, software engineers, designers, and users
+- Effective and efficient AI product development cycle
+- Leading at scale
 - Figure skating, Coffee
 
 #### 🎙 (Some) Talks
