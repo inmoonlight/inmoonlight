@@ -9,14 +9,19 @@
 - Leading at scale
 
 #### 🎙 (Some) Talks
+- AI and Marginalized Languages, ICML 2023 Panel Discussion
 - KLUE and XTREME, Google Internal Seminar Series: XTREME Talks w/ Kyunghyun Cho, Jihyung Moon and Sungjoon Park
 - [KLUE: Korean Language Understanding Evaluation](https://www.youtube.com/watch?v=w4DYkRHceqc), BigScience Episode \#2 Invited Talk w/ Kyunghyun Cho, Jihyung Moon and Sungjoon Park
-- [이 선 넘으면 침범이야, BEEP!](https://pycon.kr/2020/program/talk/62), Pycon KR 2020
 
 #### 📄 (Some) Publications
-- Younghoon Jeong, Juhyun Oh, Jaimeen Ahn, Jongwon Lee, **Jihyung Moon**, Sungjoon Park, Alice Oh. ["KOLD: Korean Offensive Language Dataset."](https://arxiv.org/pdf/2205.11315.pdf) EMNLP 2022
-- Sungjoon Park\*, **Jihyung Moon\***, Sungdong Kim\*, Won Ik Cho\*, Jiyoon Han, Jangwon Park, Chisung Song et al. ["KLUE: Korean Language Understanding Evaluation."](https://arxiv.org/pdf/2105.09680.pdf) NeurIPS 2021 Datasets and Benchmarks
-- **Jihyung Moon\***, Won Ik Cho\*, and Junbum Lee. ["BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection."](https://www.aclweb.org/anthology/2020.socialnlp-1.4.pdf) SocialNLP@ACL 2020
+- [Analyzing Norm Violations in Real-Time Live-Streaming Chat](https://arxiv.org/abs/2305.10731), NLP+CSS@EMNLP 2022
+  - **Jihyung Moon\***, Dong-Ho Lee\*, Hyundong J. Cho, Woojeong Jin, Chan Young Park, Minwoo Kim, Jay Pujara and Sungjoon Park
+- [KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315), EMNLP 2022
+  - Younghoon Jeong, Juhyun Oh, Jaimeen Ahn, Jongwon Lee, **Jihyung Moon**, Sungjoon Park, Alice Oh
+- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680), NeurIPS 2021 Datasets and Benchmarks
+  - Sungjoon Park\*, **Jihyung Moon\***, Sungdong Kim\*, Won Ik Cho\* et al
+- [BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection](https://www.aclweb.org/anthology/2020.socialnlp-1.4), SocialNLP@ACL 2020
+  - **Jihyung Moon\***, Won Ik Cho\*, and Junbum Lee
 
 
 <div align=center>
