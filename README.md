@@ -14,7 +14,7 @@
 - [KLUE: Korean Language Understanding Evaluation](https://www.youtube.com/watch?v=w4DYkRHceqc), BigScience Episode \#2 Invited Talk w/ Kyunghyun Cho, Jihyung Moon and Sungjoon Park
 
 #### 📄 (Some) Publications
-- [Analyzing Norm Violations in Real-Time Live-Streaming Chat](https://arxiv.org/abs/2305.10731), NLP+CSS@EMNLP 2022
+- [Analyzing Norm Violations in Real-Time Live-Streaming Chat](https://arxiv.org/abs/2305.10731), ACL 2023
   - **Jihyung Moon\***, Dong-Ho Lee\*, Hyundong J. Cho, Woojeong Jin, Chan Young Park, Minwoo Kim, Jay Pujara and Sungjoon Park
 - [KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315), EMNLP 2022
   - Younghoon Jeong, Juhyun Oh, Jaimeen Ahn, Jongwon Lee, **Jihyung Moon**, Sungjoon Park, Alice Oh
