@@ -3,7 +3,7 @@
 
 ### I'm Jihyung Moon, Co-founder & CTO at [SoftlyAI](https://softly.ai/)
 We build AI junior employees so that people can focus on bigger problems. <br>
-💹 For investors: [AILookUp](https://ai-lookup.softly.ai) | 🧑‍💻 For SaaS makers: [AI Receptionist](https://softly.ai/ai-chat)
+💹 For investors: [AILookUp](https://ai-lookup.softly.ai) | 🧑‍💻 For SaaS makers: [AI Receptionist API](https://softly.ai/ai-chat)
 
 #### ⚡ (Some) Interests
 - Building a great AI product
